@@ -16,6 +16,7 @@ I employ two methods to present the data: utilizing Folium's choropleth function
 Two map files are loaded within the notebook:
 
 **gadm41_IRN_1**: Contains only the provinces of Iran.
+
 **gadm41_IRN_2**: Includes both provinces and cities of Iran, offering a more detailed view of the geographical landscape.
 
 By leveraging these tools and datasets, businesses can gain valuable insights into regional trends, distribution patterns, and demographic variations, empowering more informed decision-making processes.
